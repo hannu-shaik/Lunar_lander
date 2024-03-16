@@ -102,7 +102,7 @@ After the episode ends, the function returns the total score obtained during the
 This function essentially simulates an episode of interaction between the provided agent and environment, returning the total reward obtained during the episode. It's useful for evaluating the performance of an agent in a specific environment.
 
 
-https://i.imgur.com/qFNn9ai.gif
+
 
 ![](https://i.imgur.com/qFNn9ai.gif)
 
