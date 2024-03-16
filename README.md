@@ -249,9 +249,7 @@ This training process, which combines experiences from the replay buffer and sep
 ![](https://i.imgur.com/NAg48Qk.gif)
 
 ## Double DQN (DDQN)
-The Double Deep Q-Network (DDQN) algorithm is a modification of the standard Deep Q-Network (DQN) algorithm, which reduces the overestimation bias in the Q-values, thereby improving the stability of the learning process. You can read the original publication by Hasselt et al from late 2015 here:
-
-https://arxiv.org/abs/1509.06461
+The Double Deep Q-Network (DDQN) algorithm is a modification of the standard Deep Q-Network (DQN) algorithm, which reduces the overestimation bias in the Q-values, thereby improving the stability of the learning process.
 
 ### The DDQN Algorithm
 
