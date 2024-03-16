@@ -27,3 +27,9 @@ II Experiment Design: DQN Algorithm & Model Architecture
 <img width="1134" alt="Screenshot 2024-03-06 at 10 30 54 PM" src="https://github.com/hannu-shaik/Lunar_lander/assets/140539636/e375f092-af07-4e79-8e12-516b84ced119">
 
 
+In the Lunar Lander environment, the agent's task is to learn how to land a lunar module safely on the moon's surface. This requires the agent to balance fuel efficiency and safety considerations. The agent needs to learn from its past experiences, developing a strategy to approach the landing pad while minimizing its speed and using as little fuel as possible.
+
+All reinforcement learning (RL) methods will be built from scratch, providing a comprehensive understanding of their workings and we will use PyTorch to build our neural network model.
+
+Let's initialize a LunarLander-v2 environmnet, make random actions in the environment, then view a recording of it.
+
